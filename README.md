@@ -77,4 +77,3 @@ It is ideal for **freshers** learning data analysis and Python-based visualizati
 
 ---
 
-## 📂 Repository Structure
